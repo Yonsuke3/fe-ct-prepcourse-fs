@@ -25,12 +25,10 @@ Crea en la misma carpeta donde tienes tu archivo HTML, un archivo al que podrás
 Abre el archivo recién creado y establece unas reglas básicas de CSS que nos servirán para probar si todo está funcionando correctamente. Luego de esto podrás cambiarlas o removerlas si quieres:
 
 ```css
-body {
-  font-family: 'Arial', sans-serif;
+font-family: 'Arial', sans-serif;
   background-color: #f4f4f4;
   color: #333;
   margin: 20px;
-}
 ```
 ---
 
